@@ -16,10 +16,10 @@
     "lint": "eslint . --ext .ts,.tsx  --max-warnings 0"
   },
   "dependencies": {
-    "@docusaurus/core": "2.4.3",
-    "@docusaurus/preset-classic": "2.4.3",
+    "@docusaurus/core": "3.6.0",
+    "@docusaurus/preset-classic": "3.6.0",
     "@mdx-js/react": "^1.6.21",
-    "@shopify/react-native-skia": "workspace:*",
+    "@shopify/react-native-skia": "0.0.135",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
     "docusaurus-preset-shiki-twoslash": "1.1.41",
@@ -29,7 +29,7 @@
     "prism-react-renderer": "^1.2.1",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "react-native": "0.75.2",
+    "react-native": "0.79.0",
     "react-native-gesture-handler": "^2.18.1",
     "react-native-reanimated": "^3.15.1",
     "url-loader": "^4.1.1"
